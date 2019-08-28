@@ -18,3 +18,4 @@ phases:
     commands:
       - echo Build completed!
       - printf '{"tag":"%s"}' $COMMIT_HASH_SHORT > build.json
+

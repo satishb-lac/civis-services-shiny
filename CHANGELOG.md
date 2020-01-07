@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 - Upgraded base image datascience-r from 3.1.0 -> 3.2.0
 - Added 15 additional shiny adjacent packages
+- Added geospatial dependencies
 
 ## [1.4.0] - 2019-09-09
 

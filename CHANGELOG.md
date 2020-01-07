@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## Unreleased
 
-## [1.5.0] - 2019-01-06
+## [1.5.0] - 2019-01-07
 
 - Upgraded base image datascience-r from 3.1.0 -> 3.2.0
 - Added 15 additional shiny adjacent packages

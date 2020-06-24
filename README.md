@@ -1,3 +1,7 @@
+# Deprecated
+
+The packages and system dependencies in this image have been rolled up into the base `datascience-r` image. 
+
 # Custom Docker Image with common GIS packages
 
 [![CircleCI](https://circleci.com/gh/civisanalytics/civis-services-shiny/tree/master.svg?style=svg)](https://circleci.com/gh/civisanalytics/civis-services-shiny/tree/master)

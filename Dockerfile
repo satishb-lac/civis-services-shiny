@@ -8,7 +8,6 @@ RUN Rscript -e "packages <- readLines('/requirements.txt'); install.packages(pac
 
 COPY ./app/app.r ./app/app.r
 COPY entrypoint.sh /
-RUN chmod 755 /entrypoint.sh
 
 EXPOSE 3838
 
